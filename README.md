@@ -5,22 +5,22 @@
 
 ### January:
 
-- [x] Begin learning Django.
+- [x] Start a Django project.
 > Key Goals: routers, templates, forms, db integration
-- [ ] Familiarize with microservices and containers.
+- [ ] Further familiarize with microservices and containers.
 > Key Goals: Docker containerization, deploying microservices to Kubernetes
   
 
 ### February:
 
-- [ ] Continue learning Django, and start building a full-stack web application using Python.
+- [ ] Continue Django, and start building a full-stack web application using Python.
 
 - [ ] Learn about database design and optimization.
 > Key Goals: indexing, sharding, and replication
   
 ### March:
 
-- [ ] Continue working on your full-stack web application, and start learning about cloud computing and deployment.
+- [ ] Continue working on the full-stack web application, and start learning about cloud computing and deployment.
 > Key Goals: cloud architecture, security, scaling in cloud
 - [ ] Gain experience with a NoSQL database.
 
