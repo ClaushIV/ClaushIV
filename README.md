@@ -7,15 +7,15 @@
 
 - [x] Start a Django project.
 > Key Goals: routers, templates, forms, db integration
-- [ ] Further familiarize with microservices and containers.
+- [x] Further familiarize with microservices and containers.
 > Key Goals: Docker containerization, deploying microservices to Kubernetes
   
 
 ### February:
 
-- [ ] Continue Django, and start building a full-stack web application using Python.
+- [x] Continue Django, and start building a full-stack web application using Python.
 
-- [ ] Learn about database design and optimization.
+- [x] Learn about database design and optimization.
 > Key Goals: indexing, sharding, and replication
   
 ### March:
